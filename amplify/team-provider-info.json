@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoeditor-dev-135635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::139604472642:role/amplify-photoeditor-dev-135635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::139604472642:role/amplify-photoeditor-dev-135635-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-photoeditor-dev-135635-deployment",
+      "UnauthRoleName": "amplify-photoeditor-dev-135635-unauthRole",
+      "StackName": "amplify-photoeditor-dev-135635",
+      "StackId": "arn:aws:cloudformation:us-east-2:139604472642:stack/amplify-photoeditor-dev-135635/771839f0-1e77-11eb-a49e-02e56131b6f4",
+      "AmplifyAppId": "d368xj55r5vc53"
+    },
+    "categories": {
+      "auth": {
+        "photoeditora14bdeb9": {}
+      }
+    }
+  }
+}
